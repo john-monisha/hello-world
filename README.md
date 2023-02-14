@@ -1,9 +1,9 @@
 # hello-world
-# The largest heading
+
 ## The second largest heading
 ###### The smallest heading
+Adding a line of text here.
 This is my very first repository. 
 **This line will be bold**
 *this line is in Italics*
 
-**FEW more lines of text**
